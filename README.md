@@ -7,18 +7,27 @@ VORON Vzero is Used MGN7h rail.
 but, MGN7 is structurally unstable.
 
 If use the MGN9 rail, Very good!
+
 MGN9C MOD is can be use Same Range.
 
 MGN9C-150 rail,block set 
+
 Bolt&nut (list is coming soon.)
 
 NEED CHANGE Print PARTS
+
 A_Drive_frame_Lower
+
 A_Drive_frame_Upper
+
 B_Drive_frame_Lower
+
 B_Drive_frame_Upper
+
 X_carraige ( SSOLToolhead or MiniAB  )
+
 XendstopBlock ( 8mm or 9mm ) 
+
 
 
 ![9CMod](https://user-images.githubusercontent.com/110684743/186080570-d04e56a4-693f-4233-96ea-2dd116df590c.png)
