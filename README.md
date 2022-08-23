@@ -10,9 +10,11 @@ If use the MGN9 rail, Very good!
 
 MGN9C MOD is can be use Same Range.
 
-MGN9C-150 rail,block set 
+
+★ MGN9C-150 rail,block set 
 
 Bolt&nut (list is coming soon.)
+
 
 NEED CHANGE Print PARTS
 
@@ -67,7 +69,7 @@ just seems to help with Heatbrake cooling.
 
 NEED PARTS 
 
-MGN9C-200 rail
+★ MGN9C-200 rail
 
 NEED Print Parts
 
