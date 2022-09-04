@@ -2,6 +2,11 @@
 
 This Design Based on the https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron0_MGN9C_X_Axis
 
+MGN9C-150 with Frame
+MGN9C-200 without Frame
+There are two versions.
+
+
 VORON Vzero is Used MGN7h rail.
 
 but, MGN7 is structurally unstable.
